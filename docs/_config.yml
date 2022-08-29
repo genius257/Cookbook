@@ -1,0 +1,9 @@
+title: Cookbook
+description: A collection of recipes
+show_downloads: true
+google_analytics:
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
